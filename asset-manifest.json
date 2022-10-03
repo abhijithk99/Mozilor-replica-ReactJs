@@ -1,21 +1,28 @@
 {
   "files": {
-    "main.css": "/Mozilor-replica-ReactJs/static/css/main.460c6b36.css",
-    "main.js": "/Mozilor-replica-ReactJs/static/js/main.3a1276b0.js",
+    "main.css": "/Mozilor-replica-ReactJs/static/css/main.5cb7842f.css",
+    "main.js": "/Mozilor-replica-ReactJs/static/js/main.96548b65.js",
     "static/media/home-product-cy.svg": "/Mozilor-replica-ReactJs/static/media/home-product-cy.adbd01a7eada39ddf04295da53b2a372.svg",
     "static/media/home-ideas.svg": "/Mozilor-replica-ReactJs/static/media/home-ideas.6f3d3c6c06ac353da0d70f16299c4b2e.svg",
     "static/media/hero-image.svg": "/Mozilor-replica-ReactJs/static/media/hero-image.88683954248573fb50b5ca9ef22b9204.svg",
     "static/media/footer-logo.svg": "/Mozilor-replica-ReactJs/static/media/footer-logo.5f1b52eacb5ad7b05e003680ec417610.svg",
     "static/media/mozilor-logo.svg": "/Mozilor-replica-ReactJs/static/media/mozilor-logo.5f1b52eacb5ad7b05e003680ec417610.svg",
     "static/media/badge-1.svg": "/Mozilor-replica-ReactJs/static/media/badge-1.6532e0ece943f219b79df15cdfa54e88.svg",
+    "static/media/dominos.svg": "/Mozilor-replica-ReactJs/static/media/dominos.ed316707c8e1445234a9d5890e9fa103.svg",
     "static/media/webtoffee-logo.svg": "/Mozilor-replica-ReactJs/static/media/webtoffee-logo.1cb6f87801169a6ee492290aee9fb114.svg",
+    "static/media/renault.svg": "/Mozilor-replica-ReactJs/static/media/renault.be4785d19043a69f899eb683f77072e9.svg",
+    "static/media/kfc.svg": "/Mozilor-replica-ReactJs/static/media/kfc.cf211dc6ed30dc955031aeff3f804b5b.svg",
+    "static/media/heineken.svg": "/Mozilor-replica-ReactJs/static/media/heineken.00ed0f890c0c770b2dc68f9d567c8ec2.svg",
+    "static/media/dekoria.svg": "/Mozilor-replica-ReactJs/static/media/dekoria.83d5190105ce9c7467fae3ff8d791ea3.svg",
+    "static/media/toyota.svg": "/Mozilor-replica-ReactJs/static/media/toyota.5e4d1c8c5e0e3b53cc539e3da96bd2f7.svg",
     "static/media/cookieyes-logo.svg": "/Mozilor-replica-ReactJs/static/media/cookieyes-logo.85b5cc3b7e00d6785ed018982b4078b9.svg",
+    "static/media/decathlon.svg": "/Mozilor-replica-ReactJs/static/media/decathlon.5def4a6be5740dfb75fc9c17c70c3f9f.svg",
     "index.html": "/Mozilor-replica-ReactJs/index.html",
-    "main.460c6b36.css.map": "/Mozilor-replica-ReactJs/static/css/main.460c6b36.css.map",
-    "main.3a1276b0.js.map": "/Mozilor-replica-ReactJs/static/js/main.3a1276b0.js.map"
+    "main.5cb7842f.css.map": "/Mozilor-replica-ReactJs/static/css/main.5cb7842f.css.map",
+    "main.96548b65.js.map": "/Mozilor-replica-ReactJs/static/js/main.96548b65.js.map"
   },
   "entrypoints": [
-    "static/css/main.460c6b36.css",
-    "static/js/main.3a1276b0.js"
+    "static/css/main.5cb7842f.css",
+    "static/js/main.96548b65.js"
   ]
 }
